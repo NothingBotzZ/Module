@@ -11,7 +11,7 @@
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/8ae24f864a609bb171a16.jpg)
+- [`QRIS`](https://telegra.ph/file/8ae24f864a609bb171a16.jpg)
 
 <p align="left">
 Scan qr code all payment dana, gopay, ovo, linkaja, dll. Terimakasih yang sudah donasi.
