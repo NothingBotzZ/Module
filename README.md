@@ -7,7 +7,7 @@
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/625380779466"><img src="https://img.shields.io/badge/Contact Andriann-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6285380779466"><img src="https://img.shields.io/badge/Contact Andriann-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## ```Donate Me```
 
