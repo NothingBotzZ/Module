@@ -1,6 +1,6 @@
 <h1 align="center">ꪶAndriannꫂ<br></h1>
 <p align="center">
-  <img src="https://telegra.ph/file/8241b1c4ead1cee765b04.jpg" width="540" height="300" />
+  <img src="" width="540" height="300" />
 </p>
 
 -------
