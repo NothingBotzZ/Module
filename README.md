@@ -14,8 +14,7 @@
 - [`FamPay`](https://telegra.ph/file/8ae24f864a609bb171a16.jpg)
 
 <p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
-</p>
+Scan qr code all payment dana, gopay, ovo, linkaja, dll. Terimakasih yang sudah donasi.
 
 ## `Scan QR Code For Session`
 [![Wps Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
